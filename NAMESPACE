@@ -1,0 +1,6 @@
+export(var_add_to_table)
+export(var_save_table)
+export(var_read_table)
+export(var_save_rds)
+export(var_load_rds_by_table)
+

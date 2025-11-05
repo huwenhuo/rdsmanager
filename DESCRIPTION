@@ -1,0 +1,11 @@
+Package: rdsmanager
+Type: Package
+Title: Simple RDS Variable Manager
+Version: 0.1.0
+Authors@R: person("Your", "Name", email = "your@email.com", role = c("aut", "cre"))
+Description: Save, load, and manage individual R variables as RDS files using a variable table.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+

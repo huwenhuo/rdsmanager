@@ -11,11 +11,3 @@ Manage your R workspace, one variable at a time. Automatic saving and loading of
 - Automatically load variables back into the same names.
 - Lightweight, minimal, and easy to integrate into any workflow.
 
-## Installation
-
-```r
-# Install devtools if you haven't
-install.packages("devtools")
-
-# Install from GitHub
-devtools::install_github("yourusername/rdsmanager")
